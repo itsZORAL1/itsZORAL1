@@ -9,7 +9,8 @@
 
 ---
 
-###  ~~SKILLS~~
+### <span style="font-family: 'Comic Sans MS', cursive; color: #FF6347;">⚡ SKILLS ⚡</span>
+
 
 <br>
 

@@ -30,13 +30,14 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@users.noreply.github.com"
           git init  # Initialize the Git repository in the workspace
+          git remote add origin https://github.com/${{ github.repository }}.git  # Add the remote repository
 
-      # Step 3: Commit the generated files to the gh-pages branch
+      # Step 3: Commit the generated files
       - name: Commit generated files
         run: |
           git checkout -b gh-pages || git checkout gh-pages
           git add dist/*
           git commit -m "Add new snake animation"
-          git push origin HEAD:gh-pages  # Push the files to the 'gh-pages' branch
+          git push origin gh-pages  # Push the files to the 'gh-pages' branch
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

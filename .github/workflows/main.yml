@@ -1,29 +1,30 @@
 name: Generate Snake Game from GitHub Contributions
 
 on:
-  schedule: # Run the workflow every day at midnight
-    - cron: "0 0 * * *"
-  workflow_dispatch: # Allows manual trigger of the workflow
+  schedule: # Trigger every 12 hours
+    - cron: "0 */12 * * *"
+  workflow_dispatch: # Manually trigger the workflow
 
 permissions:
-  contents: write  # Permissions for the GitHub token to push changes
+  contents: write  # Write permissions for the GITHUB_TOKEN
 
 jobs:
   build:
     name: Generate Snake Animation
     runs-on: ubuntu-latest
     steps:
-      # Step 1: Generate the snake animation
-      - uses: Platane/snk@v3
+      # Step 1: Generate Snake Animation from GitHub contributions
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}  # Use your GitHub username
-          # Specify the output file paths directly in the 'outputs' parameter
+          # Correctly define output files
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      # Step 2: Commit the generated files
+      # Step 2: Commit the generated files to the gh-pages branch
       - name: Commit generated files
         run: |
           git config --global user.name "github-actions"

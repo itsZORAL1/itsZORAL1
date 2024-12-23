@@ -1,11 +1,19 @@
 <head>
   <link href="https://fonts.googleapis.com/css2?family=Cabinet+Grotesk:wght@400;500&display=swap" rel="stylesheet">
+  <style>
+    /* Apply global font and font size styles */
+    p {
+      font-size: 6px !important;
+      font-family: 'Cabinet Grotesk', sans-serif;
+      color: #333;
+    }
+  </style>
 </head>
 
 ### Zoral here
 
-<!-- Embedded style for a funky font -->
-<p style="font-size: 6px !important; font-family: 'Cabinet Grotesk', sans-serif; color: #333;">
+<!-- The paragraph content -->
+<p>
   HALO! I'm existing as a <strong>Software and Data Science Engineering</strong> student, currently feeding my <strong>Cybersecurity</strong> curiosity at INSA Centre Val de Loire in France. I have a bit of an obsession with learning more and more and more about <strong>Java</strong> (seriously, it's a problem 😅), though I’m still a newbie at it! If you have any new articles or functionalities to share, feel free to hit me up.
 </p>
 

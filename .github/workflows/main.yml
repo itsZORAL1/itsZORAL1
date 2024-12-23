@@ -10,7 +10,7 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      # Step 1: Create the dist folder
+      # Step 1: Create dist directory
       - name: Create dist directory
         run: mkdir -p dist
 
@@ -21,7 +21,11 @@ jobs:
           github_user_name: itsZORAL1
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      # Step 3: Deploy to GitHub Pages
+      # Step 3: Verify the contents of the directory
+      - name: List contents of the directory
+        run: ls -R
+
+      # Step 4: Deploy to GitHub Pages
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output

@@ -12,7 +12,6 @@
 
 ---
 
-## 🐍 **GitHub Contributions**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsZORAL1/itsZORAL1/gh-pages/dist/github-snake-dark.svg" />
@@ -22,7 +21,7 @@
 
 ---
 
-## 🚀 **GitHub Stats**
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itsZORAL1&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical" alt="GitHub Stats">

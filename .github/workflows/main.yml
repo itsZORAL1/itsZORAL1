@@ -24,11 +24,16 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      # Step 2: Commit the generated files to the gh-pages branch
-      - name: Commit generated files
+      # Step 2: Set up Git and commit the generated files
+      - name: Set up Git
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@users.noreply.github.com"
+          git init  # Initialize the Git repository in the workspace
+
+      # Step 3: Commit the generated files to the gh-pages branch
+      - name: Commit generated files
+        run: |
           git checkout -b gh-pages || git checkout gh-pages
           git add dist/*
           git commit -m "Add new snake animation"

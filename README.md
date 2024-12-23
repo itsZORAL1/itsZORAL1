@@ -9,7 +9,7 @@
 
 ---
 
-### <span style="font-family: 'Bangers', cursive; color: #FF6347;">⚡ SKILLS ⚡</span>
+### <span style="font-family: 'Bangers', cursive; color: #FF6347; text-decoration: line-through;">⚡ SKILLS ⚡</span>
 
 
 <br>

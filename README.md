@@ -1,6 +1,6 @@
 
 
-### **Hi there, I'm Zoral!** 👋
+### **Zoral here ** 
 
 <!-- Embedded style for a funky font -->
 <p style="font-size: 14px; font-family: 'Cabinet Grotesk', sans-serif; color: #333;">

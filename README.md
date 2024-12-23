@@ -4,6 +4,8 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/itsZORAL1/itsZORAL1/gh-pages/dist/github-snake.svg" />
 </picture>
 
+![GitHub Contribution Graph](https://github.com/itsZORAL1/itsZORAL1/blob/main/github-contribution-grid.svg)
+
 
 
 <!--

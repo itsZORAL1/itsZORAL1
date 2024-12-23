@@ -45,7 +45,7 @@
 
 <br>
 
- **DATA SCIENCE & MACHINE LEARNING**  
+ **DATA SCIENCE **  
 <div>
   <span><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></span> &nbsp;
   <span><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"></span> &nbsp;

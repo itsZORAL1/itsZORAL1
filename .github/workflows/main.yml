@@ -24,7 +24,7 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      # Step 2: Set up Git and commit the generated files
+      # Step 2: Set up Git
       - name: Set up Git
         run: |
           git config --global user.name "github-actions"
@@ -38,6 +38,7 @@ jobs:
           git checkout -b gh-pages || git checkout gh-pages
           git add dist/*
           git commit -m "Add new snake animation"
-          git push origin gh-pages  # Push the files to the 'gh-pages' branch
+          # Authenticate and push to the gh-pages branch using GITHUB_TOKEN
+          git push https://github.com/${{ github.repository }}.git gh-pages --force
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

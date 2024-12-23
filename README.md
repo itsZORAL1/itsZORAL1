@@ -9,7 +9,7 @@
 
 ---
 
-### <span style="font-family: 'Bangers', cursive; color: #FF6347; text-decoration: line-through;">⚡ SKILLS ⚡</span>
+###  ~~Skills~~
 
 
 <br>
@@ -65,7 +65,7 @@
 </div>
 
 ---
- ### <span style="font-family: 'Comic Sans MS', cursive; color: #FF6347;">⚡ Let's Connect ⚡</span>
+ ###  ~~Let's Connect~~
 
 - 💼 **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/hajaraloua-759502247/)
 - 📧 **Mail**: [alouahajar20@gmail.com](mailto:alouahajar20@gmail.com)

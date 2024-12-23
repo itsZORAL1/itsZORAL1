@@ -13,4 +13,5 @@
 - 💬 Discord: @_zoral
 
 ---
-- ⚡ Fun fact **i am a perfectionist , workaholic humain being .**
+⚡: **I am a perfectionist, workaholic human being... but cute tho!** 
+

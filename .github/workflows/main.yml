@@ -14,10 +14,11 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}  # Use your GitHub username
-          # Specify where to save the files (you can customize the paths)
-          svg_out_path: dist/github-snake.svg
-          svg_out_path_dark: dist/github-snake-dark.svg?palette=github-dark
-          gif_out_path: dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+          # Specify the output file paths directly in the 'outputs' parameter
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       # Step 2: Commit the generated files to a specific branch (for example, 'gh-pages')
       - name: Commit generated files

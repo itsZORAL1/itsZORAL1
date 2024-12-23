@@ -3,7 +3,7 @@
 ### Zoral here 
 
 <!-- Embedded style for a funky font -->
-<p style="font-size: 14px; font-family: 'Cabinet Grotesk', sans-serif; color: #333;">
+<p style="font-size: 7px; font-family: 'Cabinet Grotesk', sans-serif; color: #333;">
   HALO! I'm existing as a <strong>Software and Data Science Engineering</strong> student, currently feeding my <strong>Cybersecurity</strong> curiosity at INSA Centre Val de Loire in France. I have a bit of an obsession with learning more and more and more about <strong>Java</strong> (seriously, it's a problem 😅), though I’m still a newbie at it! If you have any new articles or functionalities to share, feel free to hit me up .
 </p>
 

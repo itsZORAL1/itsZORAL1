@@ -10,7 +10,7 @@
 ##  Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/hajaraloua-759502247/)
 - 📧 alouahajar20@gmail.com
-- 💬 Discord: @_zoral
+- 💬 Discord: [@_zoral](https://discord.gg/FbDmH9fj)
 
 ---
 ⚡: **I am a perfectionist, workaholic human being... but cute tho!** 

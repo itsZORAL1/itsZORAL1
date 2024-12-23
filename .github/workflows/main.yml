@@ -1,8 +1,8 @@
 name: Generate Snake Game from GitHub Contributions
 
 on:
-  schedule: # Trigger every 12 hours
-    - cron: "0 */12 * * *"
+  schedule: # Trigger every day at midnight
+    - cron: "0 0 * * *"  # This runs once a day at midnight
   workflow_dispatch: # Manually trigger the workflow
 
 permissions:

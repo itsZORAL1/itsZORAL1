@@ -17,7 +17,7 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}  # Use your GitHub username
+          github_user_name: itsZORAL1  # Use your GitHub username explicitly
           # Correctly define output files
           outputs: |
             dist/github-snake.svg
@@ -30,7 +30,7 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@users.noreply.github.com"
           git init  # Initialize the Git repository in the workspace
-          git remote add origin https://github.com/${{ github.repository }}.git  # Add the remote repository
+          git remote add origin https://github.com/itsZORAL1/itsZORAL1.git  # Add the correct remote repository URL
 
       # Step 3: Commit the generated files
       - name: Commit generated files
@@ -39,6 +39,6 @@ jobs:
           git add dist/*
           git commit -m "Add new snake animation"
           # Authenticate and push to the gh-pages branch using GITHUB_TOKEN
-          git push https://github.com/${{ github.repository }}.git gh-pages --force
+          git push https://itsZORAL1:${{ secrets.GITHUB_TOKEN }}@github.com/itsZORAL1/itsZORAL1.git gh-pages --force
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

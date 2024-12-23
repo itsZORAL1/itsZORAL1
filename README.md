@@ -60,7 +60,10 @@
 <div>
     <span><img src="https://img.shields.io/badge/SELinux-8E2F82?style=for-the-badge"></span> &nbsp;
   <span><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"></span> &nbsp;
-  <span><img src="https://img.shields.io/badge/GitLab%20CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"></span> &nbsp;
+  <span>
+  <img src="https://img.shields.io/badge/GitLab%20CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" style="background-color: black; color: red;">
+</span>
+
 
 </div>
 

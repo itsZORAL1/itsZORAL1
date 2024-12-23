@@ -1,4 +1,4 @@
-# ALOUA Hajar - GitHub Contributions Snake 🐍
+
 
 ### **Hi there, I'm Zoral!** 👋
 

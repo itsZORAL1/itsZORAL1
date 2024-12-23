@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch: # Allows manual trigger of the workflow
 
+permissions:
+  contents: write  # Permissions for the GitHub token to push changes
+
 jobs:
   build:
     name: Generate Snake Animation
@@ -20,11 +23,12 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      # Step 2: Commit the generated files to a specific branch (for example, 'gh-pages')
+      # Step 2: Commit the generated files
       - name: Commit generated files
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@users.noreply.github.com"
+          git checkout -b gh-pages || git checkout gh-pages
           git add dist/*
           git commit -m "Add new snake animation"
           git push origin HEAD:gh-pages  # Push the files to the 'gh-pages' branch

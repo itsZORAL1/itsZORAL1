@@ -9,7 +9,7 @@
 
 ---
 
-###  SKILLS
+###  ~~SKILLS~~
 
 <br>
 
@@ -65,7 +65,7 @@
 
 ---
 
-### Let's Connect
+### ~~Let's Connect~~ 
 
 - 💼 **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/hajaraloua-759502247/)
 - 📧 **Mail**: [alouahajar20@gmail.com](mailto:alouahajar20@gmail.com)

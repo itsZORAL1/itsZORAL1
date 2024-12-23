@@ -1,3 +1,4 @@
+![GitHub Snake Animation](dist/github-contribution-grid-snake.svg)
 
 
 

@@ -1,4 +1,14 @@
-
+<head>
+  <link href="https://fonts.googleapis.com/css2?family=Cabinet+Grotesk:wght@400;500&display=swap" rel="stylesheet">
+  <style>
+    /* Apply global font and font size styles */
+    p {
+      font-size: 6px !important;
+      font-family: 'Cabinet Grotesk', sans-serif;
+      color: #333;
+    }
+  </style>
+</head>
 
 ### Zoral here
 

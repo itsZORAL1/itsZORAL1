@@ -8,8 +8,8 @@
 </p>
 
 ##  Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/hajaraloua-759502247/)
-- 📧 alouahajar20@gmail.com
+- 💬 LinkedIn:[LinkedIn](https://www.linkedin.com/in/hajaraloua-759502247/)
+- 📧 mail: alouahajar20@gmail.com
 - 💬 Discord: [@_zoral](https://discord.gg/FbDmH9fj)
 
 ---

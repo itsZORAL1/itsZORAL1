@@ -23,10 +23,6 @@
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsZORAL1&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical" alt="GitHub Stats">
-</p>
-
 ---
 
 ## 🧑‍💻 **Skills & Technologies**
@@ -43,13 +39,6 @@
 
 ---
 
-## ✨ **More Fun Stuff**
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7btPQmM6OGK00qV6/giphy.gif" alt="Fun GIF" width="300">
-</p>
-
----
 
 ## 🌟 **Let's Connect**
 - [LinkedIn](https://www.linkedin.com/in/hajaraloua-759502247/)

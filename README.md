@@ -26,7 +26,6 @@
 🌐 **FRONT-END**  
 <div>
   <span><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"></span> &nbsp;
-  <span><img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white"></span> &nbsp;
   <span><img src="https://img.shields.io/badge/SHADCN/UI-4B0082?style=for-the-badge"></span> &nbsp;
   <span><img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"></span> &nbsp;
   <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"></span> &nbsp;
@@ -56,9 +55,10 @@
 
 🌐 **SYSTEM ADMINISTRATION**  
 <div>
+    <span><img src="https://img.shields.io/badge/SELinux-8E2F82?style=for-the-badge"></span> &nbsp;
   <span><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"></span> &nbsp;
   <span><img src="https://img.shields.io/badge/GitLab%20CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"></span> &nbsp;
-  <span><img src="https://img.shields.io/badge/SELinux-8E2F82?style=for-the-badge"></span> &nbsp;
+
 </div>
 
 

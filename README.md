@@ -108,7 +108,6 @@
 
 - 💼 **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/hajaraloua-759502247/)
 - 📧 **Mail**: [alouahajar20@gmail.com](mailto:alouahajar20@gmail.com)
-- 🎮 **Discord**: [@_zoral](https://discord.gg/FbDmH9fj)
 
 ---
 

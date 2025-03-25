@@ -90,12 +90,7 @@
   <span style="border-radius: 10px;">
     <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
   </span> &nbsp;
-  <span style="border-radius: 10px;">
-    <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge">
-  </span> &nbsp;
-  <span style="border-radius: 10px;">
-    <img src="https://img.shields.io/badge/Deep%20Learning-276DC3?style=for-the-badge">
-  </span> &nbsp;
+ 
 </div>
 
 <br>

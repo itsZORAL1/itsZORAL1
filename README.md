@@ -67,7 +67,14 @@
   <span style="border-radius: 10px;">
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
   </span> &nbsp;
+  <span style="border-radius: 10px;">
+    <img src="https://img.shields.io/badge/HBase-5D5B5B?style=for-the-badge&logo=hbase&logoColor=white">
+  </span> &nbsp;
+  <span style="border-radius: 10px;">
+    <img src="https://img.shields.io/badge/Redis-D92D2F?style=for-the-badge&logo=redis&logoColor=white">
+  </span> &nbsp;
 </div>
+
 
 <br>
 

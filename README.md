@@ -15,7 +15,7 @@
 
 <br>
 
-<h3 style="font-family: Josefin Sans, sans-serif">**BACK-END** </h3> 
+<h3 style="font-family: Josefin Sans, sans-serif"> BACK-END </h3> 
 <div>
   <span style="background-color: black; padding: 5px; border-radius: 10px;">
     <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
@@ -40,7 +40,7 @@
 <br>
 
 
-**FRONT-END**  
+<h3 style="font-family: Josefin Sans, sans-serif">FRONT-END</h3>  
 <div>
   <span style="border-radius: 10px;">
     <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white">
@@ -61,7 +61,7 @@
 
 <br>
 
-**DATA MANAGEMENT SYSTEMS**  
+<h3 style="font-family: Josefin Sans, sans-serif">DATA MANAGEMENT SYSTEMS</h3>  
 <div>
   <span style="border-radius: 10px;">
     <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white">
@@ -86,7 +86,7 @@
 
 <br>
 
-**DATA SCIENCE**  
+<h3 style="font-family: Josefin Sans, sans-serif">DATA SCIENCE</h3>  
 <div>
   <span style="border-radius: 10px;">
     <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white">
@@ -99,7 +99,7 @@
 
 <br>
 
-**SYSTEM ADMINISTRATION**  
+<h3 style="font-family: Josefin Sans, sans-serif">SYSTEM ADMINISTRATION</h3>  
 <div>
   <span style="border-radius: 10px;">
     <img src="https://img.shields.io/badge/SELinux-000000?style=for-the-badge">

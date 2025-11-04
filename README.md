@@ -2,7 +2,7 @@
 
 <!-- The paragraph content -->
 <p>
-  HALO! I'm existing as a <strong>Software and Data Science Engineering</strong> student from Morocco, currently feeding my <strong>Cybersecurity</strong> curiosity at INSA Centre Val de Loire in France. I have a bit of an obsession with learning more and more and more about <strong>Java</strong>, though I’m still a newbie at it! If you have any new articles or functionalities to share, feel free to hit me up.
+  HALO! Existing here as a <strong> Data Science Eng</strong> student from Morocco, currently feeding my <strong>Cybersecurity</strong> curiosity at INSA Centre Val de Loire in France. I have a bit of an obsession with learning more and more and more about <strong>How things works</strong>, overall I’m still a newbie ,  If you have any new articles or functionalities to share, feel free to hit me up.
 </p>
 
 ---

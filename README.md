@@ -5,7 +5,7 @@
 <h1 align="center" style="font-family: 'Orbitron', sans-serif;">puts " ZORAL here -_^ " </h1>
 
 <!-- The paragraph content -->
-<p style="font-family: 'Times'">
+<p style="font-family: cursive">
   HALO! Existing here as a <strong> Data Science Eng</strong> student from Morocco, currently feeding my <strong>Cybersecurity</strong> curiosity at INSA Centre Val de Loire in France. I have a bit of an obsession with learning more and more and more about <strong>How things works</strong>, overall I’m still a newbie ,  If you have any new articles or functionalities to share, feel free to hit me up.
 </p>
 

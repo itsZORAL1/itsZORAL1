@@ -1,3 +1,7 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
+
 <h1 align="center" style="font-family: 'Orbitron', sans-serif;">puts " ZORAL here -_^ " </h1>
 
 <!-- The paragraph content -->
@@ -11,7 +15,7 @@
 
 <br>
 
-**BACK-END**  
+<h3 style="font-family: Josefin Sans, sans-serif">**BACK-END** </h3> 
 <div>
   <span style="background-color: black; padding: 5px; border-radius: 10px;">
     <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">

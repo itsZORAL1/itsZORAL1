@@ -6,7 +6,11 @@
 
 <!-- The paragraph content -->
 <p style="font-family: cursive">
-  HALO! Existing here as a <strong> Data Science Eng</strong> student from Morocco, currently feeding my <strong>Cybersecurity</strong> curiosity at INSA Centre Val de Loire in France. I have a bit of an obsession with learning more and more and more about <strong>How things works</strong>, overall I’m still a newbie ,  If you have any new articles or functionalities to share, feel free to hit me up.
+  HALO! 👋 Currently a <strong>Data Science</strong> student from Morocco, deepening my <strong>Cybersecurity</strong> expertise at INSA Centre Val de Loire. 
+  <br><br>
+  Excited to share that I'm now a <strong>Data Science Apprentice @ Air Liquide</strong>! 🎈 I have a healthy obsession with <strong>how things work</strong> and a drive to learn more every day. 
+  <br><br>
+  Always open to new articles, tools, or just a tech chat. Feel free to hit me up!
 </p>
 
 ---
